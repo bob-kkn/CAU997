@@ -1,5 +1,4 @@
 # 하위 프로세스 및 패키지 참조 --------------------------------------------------------------------------------------- #
-import knw_license
 import os
 import sys
 from os import environ
